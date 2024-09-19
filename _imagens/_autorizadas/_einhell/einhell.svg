@@ -1,0 +1,45 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 800 180"
+	 style="enable-background:new 0 0 800 180;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D90000;}
+	.st1{fill:#FFFFFF;}
+</style>
+<rect id="rect3346" x="84.1" y="23.2" class="st0" width="150.5" height="133.2"/>
+<path id="rect3348" class="st1" d="M119.3,56.2v64.1h80V99h-44.4v-6.3h22.2V79h22.2V56.2H119.3z"/>
+<path id="rect3348-2" d="M266.3,59.2v64.1h80V102H302v-6.3h22.2V82h22.2V59.2H266.3z"/>
+<path id="path899" d="M687,59.2v64.1h28.9V59.2H687z"/>
+<path id="path899-9" d="M646.3,59.2v64.1h28.9V59.2H646.3z"/>
+<path id="path899-8" d="M360.4,59.2v14h28.9v-14H360.4z M360.4,82v41.3h28.9V82H360.4z"/>
+<path id="path899-2" d="M483,59.2v64.1H512V94.7h12v28.6h28.9V82h-3.7H524h-12V59.2H483z"/>
+<path id="path899-3" d="M400.9,82v41.3h28.9V94.7h12.2v28.6H471V82h-11.3h-29.9h-14H400.9z"/>
+<path id="path899-70" d="M564.2,82v41.3h16.1h12.8h41.4v-12.7h-41.4V105h41.4v-8.3V82h-4.1h-37.3H564.2z M593.2,90.4h12.5v6.3h-12.5
+	V90.4z"/>
+</svg>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 800 180"
+	 style="enable-background:new 0 0 800 180;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D90000;}
+	.st1{fill:#FFFFFF;}
+</style>
+<rect id="rect3346" x="84.1" y="23.2" class="st0" width="150.5" height="133.2"/>
+<path id="rect3348" class="st1" d="M119.3,56.2v64.1h80V99h-44.4v-6.3h22.2V79h22.2V56.2H119.3z"/>
+<path id="rect3348-2" d="M266.3,59.2v64.1h80V102H302v-6.3h22.2V82h22.2V59.2H266.3z"/>
+<path id="path899" d="M687,59.2v64.1h28.9V59.2H687z"/>
+<path id="path899-9" d="M646.3,59.2v64.1h28.9V59.2H646.3z"/>
+<path id="path899-8" d="M360.4,59.2v14h28.9v-14H360.4z M360.4,82v41.3h28.9V82H360.4z"/>
+<path id="path899-2" d="M483,59.2v64.1H512V94.7h12v28.6h28.9V82h-3.7H524h-12V59.2H483z"/>
+<path id="path899-3" d="M400.9,82v41.3h28.9V94.7h12.2v28.6H471V82h-11.3h-29.9h-14H400.9z"/>
+<path id="path899-70" d="M564.2,82v41.3h16.1h12.8h41.4v-12.7h-41.4V105h41.4v-8.3V82h-4.1h-37.3H564.2z M593.2,90.4h12.5v6.3h-12.5
+	V90.4z"/>
+</svg>
+>>>>>>> cf4e717cb2f8d90ec1323157f2f4753bcc9c728f
